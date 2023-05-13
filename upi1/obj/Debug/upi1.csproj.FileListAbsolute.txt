@@ -1,0 +1,7 @@
+C:\Users\KuzminVD\source\repos\upi1\upi1\bin\Debug\upi1.exe.config
+C:\Users\KuzminVD\source\repos\upi1\upi1\bin\Debug\upi1.exe
+C:\Users\KuzminVD\source\repos\upi1\upi1\bin\Debug\upi1.pdb
+C:\Users\KuzminVD\source\repos\upi1\upi1\obj\Debug\upi1.csprojAssemblyReference.cache
+C:\Users\KuzminVD\source\repos\upi1\upi1\obj\Debug\upi1.csproj.CoreCompileInputs.cache
+C:\Users\KuzminVD\source\repos\upi1\upi1\obj\Debug\upi1.exe
+C:\Users\KuzminVD\source\repos\upi1\upi1\obj\Debug\upi1.pdb
